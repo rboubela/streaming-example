@@ -2,7 +2,6 @@ package com.example.streaming.producer
 
 import java.util.Properties
 
-import at.ac.fhwn.streaming.NYCBikeStations
 import com.example.streaming.NYCBikeStations
 import org.apache.kafka.clients.producer.{KafkaProducer, Producer, ProducerRecord}
 import play.api.libs.json.JsArray
